@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 👩‍💻 Hoje eu no Setor Administrativo da Infinity School
+- 👩‍💻 Hoje eu trabalho no Setor Administrativo da Infinity School
 - 💻 Estudando Python - Análise de dados
 - 😄 Pronouns: ele/dele
 - 🎓 Eu estudo [Análise e Desenvolvimento de Sistemas - UniCv]
