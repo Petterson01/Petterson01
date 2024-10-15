@@ -2,11 +2,11 @@
 
 ### Sobre mim
 
-- 👩‍💻 Hoje eu trabalho como monitor (Full-Stack)
-- 💻 Estudando Python - Javascript
+- 👩‍💻 Hoje eu no Setor Administrativo da Infinity School
+- 💻 Estudando Python - Análise de dados
 - 😄 Pronouns: ele/dele
 - 🎓 Eu estudo [Análise e Desenvolvimento de Sistemas - UniCv]
-- ✒️ No meu tempo livre eu gosto de [Jogar videogames: Minha saga favorita é Dark souls ![image](https://github.com/Petterson01/Petterson01/assets/159029714/a47e1b72-6471-4975-b07e-934c375502f9) 
+- ✒️ No meu tempo livre eu gosto de [Jogar videogames: Minha franquia favorita é Dark Souls ![image](https://github.com/Petterson01/Petterson01/assets/159029714/a47e1b72-6471-4975-b07e-934c375502f9) 
 - Assisto também filmes e séries
 
 - ### Formas de contatos
